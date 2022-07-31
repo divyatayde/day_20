@@ -1,0 +1,22 @@
+{
+  "name": "day_20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyatayde/day_20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyatayde/day_20/issues"
+  },
+  "homepage": "https://github.com/divyatayde/day_20#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
